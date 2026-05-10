@@ -70,3 +70,6 @@ lsz -s "nmap" ~/Software/nmap
 lsz -s "Wireshark" ~/Software/Wireshark
 lsz -s "语雀文档批量下载" ~/Software/YuQueDocFetch
 ```
+
+---
+***Friend link: [LINUX DO](https://linux.do/)***
